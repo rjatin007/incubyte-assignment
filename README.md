@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# String Calculator App
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -13,7 +13,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 2. Start the app
 
    ```bash
-    npx expo start
+    npm start
    ```
 
 In the output, you'll find options to open the app in a
@@ -25,3 +25,4 @@ In the output, you'll find options to open the app in a
 
 3. This repo uses [Zustand](https://zustand-demo.pmnd.rs/) to manage state.
 4. Styling is done with [Nativewind](https://www.nativewind.dev/).
+5. Screenshots are available in screenshots folder.
