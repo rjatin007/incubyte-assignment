@@ -17,4 +17,4 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```
 3. This repo uses [Zustand](https://zustand-demo.pmnd.rs/) to manage state.
 4. Styling is done with [Nativewind](https://www.nativewind.dev/).
-5. Screenshots are available in screenshots folder.
+5. Screenshots are available in **screenshots** folder with **Error State** screenshots placed in _error-states_ folder and **Happy Flow** screenshots in _happy-flow_ folder respectively.
